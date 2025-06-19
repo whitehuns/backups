@@ -1,2 +1,3 @@
-# school
-This is a test.
+School Assignment (C lang)
+2025 1th Grade Spring
+
