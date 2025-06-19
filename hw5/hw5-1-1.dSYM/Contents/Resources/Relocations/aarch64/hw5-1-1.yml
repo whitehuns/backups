@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/seungheonbaik/Desktop/cs/hw5-1-1'
+relocations:     []
+...

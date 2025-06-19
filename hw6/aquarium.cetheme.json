@@ -1,0 +1,63 @@
+{
+  "name": "Aquarium",
+  "type": "dark",
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#3d4059"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#b1dba4"
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#cddbf9"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#ebb9b9"
+      }
+    },
+    {
+      "scope": "variable",
+      "settings": {
+        "foreground": "#f6bbe7"
+      }
+    },
+    {
+      "scope": "entity.name.function",
+      "settings": {
+        "foreground": "#e8cca7"
+      }
+    },
+    {
+      "scope": "entity.name.class",
+      "settings": {
+        "foreground": "#e6dfb8"
+      }
+    },
+    {
+      "scope": "support.type",
+      "settings": {
+        "foreground": "#b8deeb"
+      }
+    }
+  ],
+  "colors": {
+    "editor.background": "#20202a",
+    "editor.foreground": "#63718b",
+    "editorLineNumber.foreground": "#3d4059",
+    "editorCursor.foreground": "#b3b4b2",
+    "editor.selectionBackground": "#333551",
+    "editor.lineHighlightBackground": "#1110173c"
+  }
+}
